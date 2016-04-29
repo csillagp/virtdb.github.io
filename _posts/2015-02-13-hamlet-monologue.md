@@ -1,7 +1,9 @@
 ---
 layout: post
 title: To be
-subtitle: ... or not to be?
+subtitle: ""
+published: false
+date: ""
 ---
 
 To be, or not to be--that is the question:
