@@ -23,11 +23,11 @@ h1,h2,h3,h4,h5,h6 {
   font-weight: 400;
 }
 a {
-  color: #008AFF;
+  color: #3FA9F5;
 }
 a:hover,
 a:focus {
-  color: #0085a1;
+  color: #3FA9F5;
 }
 blockquote {
   color: #808080;
