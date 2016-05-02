@@ -1,9 +1,9 @@
 ---
 layout: post
-subtitle: null
-date: ""
-published: false
-title: ""
+subtitle: Tökteszt alcím
+date: "2016-05-02"
+published: true
+title: Teszt cím
 ---
 ## A New Post
 
