@@ -2,7 +2,7 @@
 layout: post
 title: Dear diary
 published: true
-subtitle: naplópó
+subtitle: naplopó
 date: "2016-05-01"
 ---
 
